@@ -11,3 +11,5 @@ Css画各种图形： https://css-tricks.com/examples/ShapesOfCSS/
 很好的html5资源网站: http://www.html5tricks.com/
 
 腾讯ISUX: http://isux.tencent.com/
+
+jQuery，Css3特效网站：http://www.htmleaf.com
