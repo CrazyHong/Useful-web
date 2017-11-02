@@ -23,3 +23,9 @@ jq22：http://www.jq22.com/ （在线代码功能可以）
 模板之家：http://www.cssmoban.com/
 
 Reeoo: http://reeoo.com/
+
+thress.js: http://threejs.org/  (demo site: https://threejs.org/examples/) very cool
+
+velocityjs: http://velocityjs.org/
+
+bounce.js: http://bouncejs.com/ (github: https://github.com/ticail/bounce.js)
