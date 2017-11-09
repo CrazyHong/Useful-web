@@ -37,3 +37,5 @@ stackoverflow: https://stackoverflow.com/
 segmentfault: https://segmentfault.com/
 
 codeproject: https://www.codeproject.com/
+
+w3layouts: https://w3layouts.com/
